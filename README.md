@@ -13,8 +13,6 @@
 **🗓️ Daily Routine**
 - 🧠 **Study** English for IELTS *(goal: 7.0–8.0 band)*
 - 💻 **Code** Building Telegram bots with **Aiogram** & **SQLAlchemy**
-- 📖 **Learn** Practicing **algorithms, OOP, and system design**
-- 🌐 **Explore** German universities & IT job market in the **EU**
 - 🏋️‍♂️ **Grow** Becoming a **disciplined** and **strong developer**
 
 ---
