@@ -106,23 +106,7 @@
 - 🇩🇪 **Move to Germany/EU** `████░░░░░░░░ 30%`
 - 📝 **Start Tech Blog/Mentoring** `███░░░░░░░░░ 20%`
 
-### 📊 Overall Progress
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shaxobff&theme=radical" alt="WakaTime Stats"/>
-</div>
 
----
-
-## 💼 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/shaxobff/telegram-bot-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaxobff&repo=telegram-bot-project&theme=radical" alt="Telegram Bot Project"/>
-  </a>
-  <a href="https://github.com/shaxobff/fastapi-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shaxobff&repo=fastapi-backend&theme=radical" alt="FastAPI Backend"/>
-  </a>
-</div>
 
 ---
 
