@@ -81,7 +81,7 @@
 ## 🔥 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaxobff&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaxob-py&theme=radical" alt="GitHub Streak"/>
 </div>
 
 ---
