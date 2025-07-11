@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Shaxobff
+# Hi there! 👋 I'm Shaxob
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Shaxob+%F0%9F%91%8B;Python+Developer+%F0%9F%90%8D;Telegram+Bot+Creator+%F0%9F%A4%96;Future+Software+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
@@ -64,8 +64,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shaxobff&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaxobff&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shaxob-py&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaxob-py&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 ---
@@ -89,7 +89,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shaxobff&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Shaxob-py&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -116,7 +116,7 @@
   
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shaxob_x)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaxobff)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaxobff)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shaxob-py)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xunuddinovshaxob@gmail.com)
 
 </div>
@@ -124,11 +124,11 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shaxobff&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Shaxob-py&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
 
 <div align="center">
-  <i>⭐ From <a href="https://github.com/shaxobff">shaxobff</a> with ❤️</i>
+  <i>⭐ From <a href="https://github.com/Shaxob-py">Shaxob-py</a> with ❤️</i>
 </div>
 
 ---
