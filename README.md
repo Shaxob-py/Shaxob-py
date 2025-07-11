@@ -64,8 +64,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shaxob-py&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaxob-py&layout=compact&langs_count=8&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shaxob-py&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaxob-py&layout=compact&langs_count=8&theme=radical" height="180"/>
 </div>
 
 ---
