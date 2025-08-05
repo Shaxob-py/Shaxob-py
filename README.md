@@ -24,9 +24,7 @@
 | **Age** | 18 |
 | **Location** | Uzbekistan 🇺🇿 |
 | **Role** | Backend Developer (Python) |
-| **Frameworks** | FastAPI, Django |
-| **Mission** | Become a **senior backend dev** in 3 years |
-| **Goal Country** | Germany 🇩🇪 |
+
 
 **Favorite Quote:** *"Consistency beats motivation."*
 
