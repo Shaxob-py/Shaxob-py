@@ -3,9 +3,11 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Shaxob+%F0%9F%91%8B;Python+Developer+%F0%9F%90%8D;Telegram+Bot+Creator+%F0%9F%A4%96;Future+Software+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;UI%2FUX+Designer;Problem+Solver;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
+
 <img align="right" alt="Coding GIF" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ### Let's build something amazing together! 🚀
@@ -28,7 +30,6 @@
 | **Age** | 18 |
 | **Location** | Uzbekistan 🇺🇿 |
 | **Role** | Backend Developer (Python) |
-
 
 **Favorite Quote:** *"Consistency beats motivation."*
 
@@ -53,15 +54,9 @@
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
-
-
-
-
 ### **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
 
 ### **DevOps & Tools**
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -70,7 +65,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![docker-compose.yaml](https://img.shields.io/badge/docker--compose.yaml-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-
 
 ---
 
@@ -119,8 +113,6 @@
 - 🇩🇪 **Move to Germany/EU** `████░░░░░░░░ 30%`
 - 📝 **Start Tech Blog/Mentoring** `███░░░░░░░░░ 20%`
 
-
-
 ---
 
 ## 📫 Let's Connect!
@@ -128,7 +120,7 @@
 <div align="center">
   
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shaxob_x)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/shaxobff](https://www.linkedin.com/in/shaxob-xusnuddinov-6b8b0435a/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaxob-xusnuddinov-6b8b0435a/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shaxob-py)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xunuddinovshaxob@gmail.com)
 
