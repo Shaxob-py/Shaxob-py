@@ -1,10 +1,7 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Shaxob+%F0%9F%91%8B;Python+Developer+%F0%9F%90%8D;Telegram+Bot+Creator+%F0%9F%A4%96;Future+Software+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
 
-
-### Let's build something amazing together! 🚀
 
 ---
 
