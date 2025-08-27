@@ -10,7 +10,8 @@
 
 ## 🌟 About Me
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
 
 🎯 **Passionate Backend Developer** from Uzbekistan 🇺🇿  
 💡 **Age:** 18 | **Experience:** 2+ years with Python  
