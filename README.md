@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-<img align="right" alt="Backend Animation" width="300" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
+<img align="right" alt="Neon Coding" width="300" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif">
 
 
 
