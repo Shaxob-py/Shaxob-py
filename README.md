@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-<img align="right" alt="Neon Coding" width="300" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif">
+<img align="right" alt="Matrix Code" width="300" src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif">
 
 
 
