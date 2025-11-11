@@ -10,8 +10,7 @@
 
 ## 🌟 About Me
 
-<img align="right" alt="Matrix Code Rain 4" width="300" src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif">
-
+<img align="right" alt="Matrix Code Rain 3" width="300" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif">
 
 
 
