@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-<img align="right" alt="Matrix Code Rain 2" width="300" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Digital_rain_animation_medium_letters_shine.gif">
+<img align="right" alt="Matrix Code Rain 3" width="300" src="https://imgur.com/gallery/endless-raining-matrix-code-zrlhTDT.gif">
 
 
 
