@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-<img align="right" alt="Hacker GIF" width="300" src="https://media.tenor.com/2vYwYFZp7yAAAAAd/hacker.gif">
+<img align="right" alt="Matrix Code Rain" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJ3MnlvbzJmanlqdHV3dnNkdTludWw2eW5kcGQ3NDZ2a3Fka3lseSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iGpHt2H22k1orjgT9b/giphy.gif">
 
 
 
