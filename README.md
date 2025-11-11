@@ -10,7 +10,7 @@
 
 ## 🌟 About Me
 
-<img align="right" alt="Matrix Code Rain 3" width="300" src="https://imgur.com/gallery/endless-raining-matrix-code-zrlhTDT.gif">
+<img align="right" alt="Matrix Code Rain 1" width="300" src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif">
 
 
 
