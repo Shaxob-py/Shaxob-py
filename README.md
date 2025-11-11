@@ -128,6 +128,7 @@ If you find my projects helpful, consider giving them a ⭐!
 ![Stars](https://img.shields.io/github/stars/Shaxob-py?style=for-the-badge&color=yellow&labelColor=black)
 
 </div>
+![snake gif](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 ---
 
