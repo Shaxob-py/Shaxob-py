@@ -108,12 +108,9 @@
 ---
 
 <div align="center">
-
-### 🐍 My GitHub Contribution Snake
-
-![snake gif](https://github.com/Shaxob-py/Shaxob-py/blob/output/github-contribution-grid-snake-dark.svg)
-
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
 
 ---
 
